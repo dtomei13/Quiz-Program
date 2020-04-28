@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question>Why</Question>
+    <Answer>no</Answer>
+    <Id>1</Id>
+  </Questions>
+  <Questions>
+    <Question>How</Question>
+    <Answer>yes</Answer>
+    <Id>2</Id>
+  </Questions>
+  <Questions>
+    <Question>What?</Question>
+    <Answer>Wat</Answer>
+    <Id>3</Id>
+  </Questions>
+</ArrayOfQuestions>

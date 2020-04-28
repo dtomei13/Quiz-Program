@@ -8,3 +8,16 @@ C:\Users\Dylan\source\repos\QuizingProgram\QuizingProgram\obj\Debug\QuizingProgr
 C:\Users\Dylan\source\repos\QuizingProgram\QuizingProgram\obj\Debug\QuizingProgram.csproj.CoreCompileInputs.cache
 C:\Users\Dylan\source\repos\QuizingProgram\QuizingProgram\obj\Debug\QuizingProgram.exe
 C:\Users\Dylan\source\repos\QuizingProgram\QuizingProgram\obj\Debug\QuizingProgram.pdb
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\bin\Debug\QuizingProgram.exe.config
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\bin\Debug\QuizingProgram.exe
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\bin\Debug\QuizingProgram.pdb
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.csprojAssemblyReference.cache
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.Properties.Resources.resources
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.csproj.GenerateResource.cache
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.csproj.CoreCompileInputs.cache
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.exe
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.pdb
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.StartWindow.resources
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.CreateQuizWindow.resources
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.EditQuiz.resources
+D:\Git Projects\Portfolio\Quiz-Program\QuizingProgram\obj\Debug\QuizingProgram.Quiz.resources

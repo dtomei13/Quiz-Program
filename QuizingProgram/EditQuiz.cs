@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace QuizingProgram
 {
-    public partial class Form1 : Form
+    public partial class EditQuiz : Form
     {
-        public Form1()
+        public EditQuiz()
         {
             InitializeComponent();
-        }
-
-
-   
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            WelcomePanel.Visible = false;
         }
     }
 }

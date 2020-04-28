@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question>What is love?</Question>
+    <Answer>Baby don't hurt me</Answer>
+  </Questions>
+</ArrayOfQuestions>
